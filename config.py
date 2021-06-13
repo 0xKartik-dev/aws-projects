@@ -1,0 +1,6 @@
+customhost = "employee.cc0c3ao7abye.us-east-2.rds.amazonaws.com"
+customuser = "rootroot"
+custompass = "rootroot"
+customdb = "employee"
+custombucket = "awsaddemp"
+customregion = "us-east-2"
